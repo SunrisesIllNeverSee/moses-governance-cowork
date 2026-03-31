@@ -1,10 +1,27 @@
 {
   "name": "governance",
   "version": "1.0.0",
-  "description": "Constitutional AI governance for any session. Set modes, postures, and roles that persist across every action. Built on MO§ES™ by Ello Cello LLC.",
+  "displayName": "MO§ES™ Governance for Cowork",
+  "description": "Constitutional AI governance for Claude Cowork. Set modes, postures, and roles that persist across every action. Prompt-native enforcement — no shell dependencies. Built on MO§ES™ by Ello Cello LLC.",
   "author": {
-    "name": "Ello Cello LLC"
+    "name": "Ello Cello LLC",
+    "email": "contact@burnmydays.com",
+    "url": "https://mos2es.io"
   },
   "homepage": "https://mos2es.io",
-  "repository": "https://github.com/SunrisesIllNeverSee/moses-governance"
+  "repository": "https://github.com/SunrisesIllNeverSee/moses-governance-cowork",
+  "license": "SEE LICENSE IN README.md",
+  "keywords": [
+    "governance",
+    "security",
+    "compliance",
+    "constitutional-ai",
+    "role-hierarchy",
+    "posture-control",
+    "audit-trail",
+    "cowork"
+  ],
+  "categories": [
+    "Enterprise & Communication"
+  ]
 }
